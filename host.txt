@@ -1,3 +1,4 @@
 # Google:GCM Start
 74.125.195.188	mtalk.google.com
+64.233.188.188  mobile-gtalk.l.google.com
 # Google:GCM End
