@@ -1,1 +1,9 @@
 127.0.0.1 ad.12306.cn
+127.0.0.1 ads.ping.com
+127.0.0.1 ads.nexage.com
+127.0.0.1 display.xad.com
+127.0.0.1 ads.aerserv.com
+127.0.0.1 cdn.teads.tv
+127.0.0.1 adcel.vrvm.com
+127.0.0.1 ads.nexage.com
+
