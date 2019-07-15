@@ -1,4 +1,5 @@
 127.0.0.1 ad.12306.cn
+127.0.0.1 applog.uc.cn
 127.0.0.1 ads.ping.com
 127.0.0.1 ads.nexage.com
 127.0.0.1 display.xad.com
@@ -6,4 +7,60 @@
 127.0.0.1 cdn.teads.tv
 127.0.0.1 adcel.vrvm.com
 127.0.0.1 ads.nexage.com
-
+127.0.0.1 api.adxpand.com
+127.0.0.1 tools.3g.qq.com
+127.0.0.1 mazu.3g.qq.com
+127.0.0.1 yyb.str.mdt.qq.com
+127.0.0.1 android.rqd.qq.com
+#microsoft
+127.0.0.1 mobile.pipe.aria.microsoft.com
+127.0.0.1 vortex.data.microsoft.com
+127.0.0.1 app.adjust.com
+127.0.0.1 gate.hockeyapp.net
+127.0.0.1 s2s.singular.net
+#google analytics
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 www.googletagmanager.com
+#didi
+127.0.0.1 img-ys011.didistatic.com
+127.0.0.1 t.appsflyer.com
+127.0.0.1 webapp.didistatic.com
+127.0.0.1 dpubstatic.udache.com
+127.0.0.1 resolver.msg.xiaomi.net
+127.0.0.1 adtrack.xiaojukeji.com
+#rrmj
+127.0.0.1 adash.man.aliyuncs.com
+127.0.0.1 adashbc.ut.taobao.com
+127.0.0.1 adashxgc.ut.taobao.com
+127.0.0.1 api.moblink.mob.com
+127.0.0.1 m.data.mob.com
+127.0.0.1 api.exc.mob.com
+127.0.0.1 m.1221mall.com
+127.0.0.1 ulogs.umengcloud.com
+127.0.0.1 ulogs.umeng.com
+127.0.0.1 plbslog.umeng.com
+127.0.0.1 pg.xdrig.com
+127.0.0.1 astat.bugly.qq.com
+127.0.0.1 kefu.easemob.com
+127.0.0.1 webim.kefu.easemob.com
+127.0.0.1 is.snssdk.com
+127.0.0.1 i.snssdk.com
+#amap
+127.0.0.1 adashbc.m.taobao.com
+127.0.0.1 ynuf.alipay.com
+127.0.0.1 www.qchannel01.cn
+127.0.0.1 m.irs01.com
+127.0.0.1 logs.amap.com
+#taobao
+127.0.0.1 amdc.m.taobao.com
+127.0.0.1 acs.m.taobao.com
+127.0.0.1 err.taobao.com
+#pinger
+127.0.0.1 ads.pinger.com
+127.0.0.1 data.flurry.com
+127.0.0.1 dev.appboy.com
+127.0.0.1 analytics.query.yahoo.com
+127.0.0.1 e.crashlytics.com
+127.0.0.1 settings.crashlytics.com
+127.0.0.1 api.leanplum.com
+127.0.0.1 api.branch.io
