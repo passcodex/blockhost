@@ -1,3 +1,4 @@
+#common
 127.0.0.1 ad.12306.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 ads.ping.com
@@ -12,6 +13,7 @@
 127.0.0.1 mazu.3g.qq.com
 127.0.0.1 yyb.str.mdt.qq.com
 127.0.0.1 android.rqd.qq.com
+127.0.0.1 pingma.qq.com
 #microsoft
 127.0.0.1 mobile.pipe.aria.microsoft.com
 127.0.0.1 vortex.data.microsoft.com
@@ -40,11 +42,22 @@
 127.0.0.1 ulogs.umeng.com
 127.0.0.1 plbslog.umeng.com
 127.0.0.1 pg.xdrig.com
-127.0.0.1 astat.bugly.qq.com
 127.0.0.1 kefu.easemob.com
 127.0.0.1 webim.kefu.easemob.com
 127.0.0.1 is.snssdk.com
 127.0.0.1 i.snssdk.com
+127.0.0.1 fp-bj.fengkongcloud.com
+127.0.0.1 android.bugly.qq.com
+127.0.0.1 astat.bugly.qq.com
+127.0.0.1 eleven.bayescom.cn
+127.0.0.1 shuttle.bayescom.com
+127.0.0.1 stats.jpush.cn
+127.0.0.1 gd-stats.jpush.cn
+127.0.0.1 ali-stats.jpush.cn
+127.0.0.1 tsis.jpush.cn
+127.0.0.1 s.appjiagu.com
+#127.0.0.1 hotfix-api.aliyuncs.com
+#127.0.0.1 valid.dolit.cn
 #amap
 127.0.0.1 adashbc.m.taobao.com
 127.0.0.1 ynuf.alipay.com
@@ -64,3 +77,7 @@
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 api.leanplum.com
 127.0.0.1 api.branch.io
+#bank
+127.0.0.1 log.cmbchina.com
+127.0.0.1 click.abchina.com
+127.0.0.1 imagesh1.abchina.com
