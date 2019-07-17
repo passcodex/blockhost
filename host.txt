@@ -47,6 +47,7 @@
 127.0.0.1 is.snssdk.com
 127.0.0.1 i.snssdk.com
 127.0.0.1 fp-bj.fengkongcloud.com
+127.0.0.1 cloudconf.fengkongcloud.com
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 astat.bugly.qq.com
 127.0.0.1 eleven.bayescom.cn
@@ -60,6 +61,7 @@
 #127.0.0.1 valid.dolit.cn
 #amap
 127.0.0.1 adashbc.m.taobao.com
+127.0.0.1 adashx.m.taobao.com
 127.0.0.1 ynuf.alipay.com
 127.0.0.1 www.qchannel01.cn
 127.0.0.1 m.irs01.com
