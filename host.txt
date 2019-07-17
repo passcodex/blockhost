@@ -18,6 +18,7 @@
 127.0.0.1 mobile.pipe.aria.microsoft.com
 127.0.0.1 vortex.data.microsoft.com
 127.0.0.1 app.adjust.com
+127.0.0.1 in.appcenter.ms
 127.0.0.1 gate.hockeyapp.net
 127.0.0.1 s2s.singular.net
 #google analytics
