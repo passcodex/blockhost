@@ -31,6 +31,10 @@
 127.0.0.1 dpubstatic.udache.com
 127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 adtrack.xiaojukeji.com
+127.0.0.1 omgup.xiaojukeji.com
+127.0.0.1 strategy-genrec.xiaojukeji.com
+127.0.0.1 apm.xiaojukeji.com
+127.0.0.1 eos-marketing.es.xiaojukeji.com
 #rrmj
 127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 adashbc.ut.taobao.com
@@ -58,7 +62,9 @@
 127.0.0.1 ali-stats.jpush.cn
 127.0.0.1 tsis.jpush.cn
 127.0.0.1 s.appjiagu.com
-#127.0.0.1 hotfix-api.aliyuncs.com
+127.0.0.1 hotfix-api.aliyuncs.com
+127.0.0.1 beacon-api.aliyuncs.com
+127.0.0.1 api.sobot.com
 #127.0.0.1 valid.dolit.cn
 #amap
 127.0.0.1 adashbc.m.taobao.com
