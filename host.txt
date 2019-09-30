@@ -9,6 +9,12 @@
 127.0.0.1 adcel.vrvm.com
 127.0.0.1 ads.nexage.com
 127.0.0.1 api.adxpand.com
+#evenwell
+127.0.0.1 tools.3g.qq.com
+#127.0.0.1 mazu.3g.qq.com
+127.0.0.1 yyb.str.mdt.qq.com
+127.0.0.1 android.rqd.qq.com
+127.0.0.1 pingma.qq.com
 #microsoft
 127.0.0.1 mobile.pipe.aria.microsoft.com
 127.0.0.1 vortex.data.microsoft.com
