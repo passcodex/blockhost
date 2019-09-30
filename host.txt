@@ -9,7 +9,7 @@
 127.0.0.1 adcel.vrvm.com
 127.0.0.1 ads.nexage.com
 127.0.0.1 api.adxpand.com
-127.0.0.1 tools.3g.qq.com
+#127.0.0.1 tools.3g.qq.com
 127.0.0.1 mazu.3g.qq.com
 127.0.0.1 yyb.str.mdt.qq.com
 127.0.0.1 android.rqd.qq.com
@@ -24,6 +24,9 @@
 #google analytics
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 www.googletagmanager.com
+#google ads
+127.0.0.1 adservice.google.com
+127.0.0.1 googleads.g.doubleclick.net
 #didi
 127.0.0.1 img-ys011.didistatic.com
 127.0.0.1 t.appsflyer.com
