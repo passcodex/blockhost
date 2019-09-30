@@ -27,6 +27,7 @@
 #google ads
 127.0.0.1 adservice.google.com
 127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 doubleclick.net
 #didi
 127.0.0.1 img-ys011.didistatic.com
 127.0.0.1 t.appsflyer.com
