@@ -55,6 +55,9 @@
 127.0.0.1 ulogs.umengcloud.com
 127.0.0.1 ulogs.umeng.com
 127.0.0.1 plbslog.umeng.com
+127.0.0.1 jic.talkingdata.com
+127.0.0.1 log.qchannel03.cn
+127.0.0.1 b.qchannel03.cn
 127.0.0.1 pg.xdrig.com
 127.0.0.1 kefu.easemob.com
 127.0.0.1 webim.kefu.easemob.com
@@ -96,6 +99,6 @@
 127.0.0.1 api.leanplum.com
 127.0.0.1 api.branch.io
 #bank
-127.0.0.1 log.cmbchina.com
-127.0.0.1 click.abchina.com
-127.0.0.1 imagesh1.abchina.com
+#127.0.0.1 log.cmbchina.com
+#127.0.0.1 click.abchina.com
+#127.0.0.1 imagesh1.abchina.com
