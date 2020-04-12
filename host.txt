@@ -106,3 +106,5 @@
 #127.0.0.1 log.cmbchina.com
 #127.0.0.1 click.abchina.com
 #127.0.0.1 imagesh1.abchina.com
+#pumpkin
+127.0.0.1 openinstall.io
