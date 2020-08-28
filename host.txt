@@ -46,12 +46,21 @@
 127.0.0.1 eos-marketing.es.xiaojukeji.com
 #rrmj
 127.0.0.1 adash.man.aliyuncs.com
+127.0.0.1 adash-emas.cn-hangzhou.aliyuncs.com
 127.0.0.1 adashbc.ut.taobao.com
 127.0.0.1 adashxgc.ut.taobao.com
+127.0.0.1 retcode.alicdn.com
+127.0.0.1 arms-retcode.aliyuncs.com
+127.0.0.1 ap.cpatrk.net
+127.0.0.1 adt.cpatrk.net
+127.0.0.1 pg.xdrig.com
+127.0.0.1 adt.xdrig.com
+127.0.0.1 me.xdrig.com
 127.0.0.1 api.moblink.mob.com
 127.0.0.1 m.data.mob.com
 127.0.0.1 api.exc.mob.com
 127.0.0.1 f.gm.mob.com
+127.0.0.1 f.moblink.mob.com
 127.0.0.1 m.1221mall.com
 127.0.0.1 ulogs.umengcloud.com
 127.0.0.1 ulogs.umeng.com
@@ -60,9 +69,6 @@
 127.0.0.1 log.qchannel03.cn
 127.0.0.1 a.qchannel03.cn
 127.0.0.1 b.qchannel03.cn
-127.0.0.1 pg.xdrig.com
-127.0.0.1 adt.xdrig.com
-127.0.0.1 me.xdrig.com
 127.0.0.1 kefu.easemob.com
 127.0.0.1 webim.kefu.easemob.com
 127.0.0.1 is.snssdk.com
@@ -82,6 +88,15 @@
 127.0.0.1 beacon-api.aliyuncs.com
 127.0.0.1 api.sobot.com
 #127.0.0.1 valid.dolit.cn
+127.0.0.1 toblog.ctobsnssdk.com
+127.0.0.1 tobapplog.ctobsnssdk.com
+127.0.0.1 pangolin16.sgsnssdk.com
+127.0.0.1 collect-h5.rr.tv
+127.0.0.1 gate.langago.cn
+127.0.0.1 t.langago.cn
+127.0.0.1 dig.bdurl.net
+127.0.0.1 gate.atomhike.com
+127.0.0.1 settings.atomhike.com
 #amap
 127.0.0.1 adashbc.m.taobao.com
 127.0.0.1 adashx.m.taobao.com
@@ -108,3 +123,4 @@
 #127.0.0.1 imagesh1.abchina.com
 #pumpkin
 127.0.0.1 openinstall.io
+127.0.0.1 api.openinstall.io
