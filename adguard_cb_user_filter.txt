@@ -17,9 +17,10 @@
 ||*/App/Ad/noticeInfo$app=com.pumpkin1209.www
 ||*/App/Ad/activityInfo$app=com.pumpkin1209.www
 ||*/App/Ad/barsIndexAdInfo$app=com.pumpkin1209.www
+||*/App/Ad/barsUserAdInfo$app=com.pumpkin1209.www
 ||*/App/Ad/playAdInfo$app=com.pumpkin1209.www
-||*/App/Ad/screenYInfo$app=com.pumpkin1209.www
 ||*/App/Ad/barsPlayAdInfo$app=com.pumpkin1209.www
+||*/App/Ad/screenYInfo$app=com.pumpkin1209.www
 ||loc.map.baidu.com/sdk.php$app=cmb.pb
 ||pic1cdn.cmbchina.com/appinitads^$app=cmb.pb
 ||adashx.m.taobao.com^$app=com.autonavi.minimap
