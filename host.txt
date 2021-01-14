@@ -124,3 +124,5 @@
 #pumpkin
 127.0.0.1 openinstall.io
 127.0.0.1 api.openinstall.io
+#alipay
+127.0.0.1 loggw.alipay.com
